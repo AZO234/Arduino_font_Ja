@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For SSD1306_I2C
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+FONTX2_System_IsFontExist	KEYWORD2
+FONTX2_System_GetFontImage	KEYWORD2
+
+JaCode_DetectType	KEYWORD2
+JaCode_GetStringSize	KEYWORD2
+JaCode_GetCharCount	KEYWORD2
+JaCode_ConvertCode	KEYWORD2
+JaCode_GetConvertStringSize	KEYWORD2
+JaCode_ConvertString	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
