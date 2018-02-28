@@ -1,6 +1,6 @@
 Japanese font data by AZO
 =========================
-version: v1.0.0(Feb 26, 2018)  
+version: v1.0.0(Feb 28, 2018)  
 http://domisan.sakura.ne.jp/
 
 Library of Japanese font data for Arduino IDE.
@@ -10,6 +10,7 @@ This library includes follow ANK fonts.
 * [8x8] Elisa
 * [8x16][16x16] IPA Gothic
 * [8x16][16x16] IPA Mincho
+* Functions for Japanese (SJIS/UTF8/UTF16(LE)/EUC check and convert)
 
 In case of using for commercial purposes it is necessary to consult the author.  
 (C) Sadakazu Nagao  
